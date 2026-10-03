@@ -1,0 +1,4 @@
+e7c4e54ee4c4c47829cc6667d5d00ed8ea7bef1dcfeef0fce766f77752a2726c  omni-ctc300m-int8-v1.onnx
+a7a044c52cb29cbe8b0dc1953e92cefd4ca16b0ed968177b6beab21f9a7d0b31  omni-ctc300m-tokens-v1.txt
+000f6e8c32a3f4907db664dd69f4b89b7f28f417de99f0556628e1a676a62e44  nvidia-ar-fc-ctc-int8-v1.onnx
+9b938381a19a69bb279cdcfc299419f25a049ea1de192e0d10317274a0f20074  nvidia-ar-fc-ctc-tokens-v1.txt

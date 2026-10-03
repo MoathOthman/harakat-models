@@ -1,0 +1,13 @@
+Arabic FastConformer by NVIDIA, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Modified: int8 quantised, ONNX export.
+
+Model: NVIDIA NeMo "stt_ar_fastconformer_hybrid_large_pcd_v1.0" (Arabic FastConformer
+Hybrid Transducer-CTC, large), by NVIDIA Corporation.
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0).
+Licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Changes made: the CTC head was exported to ONNX and quantised to int8 (sherpa-onnx,
+mah92/sherpa-onnx-nemo-ctc-ar-fastconformer-hybrid-large-pcd-v1.0-non-streaming-int8-2024-12-25).
+No other changes were made to the weights.
+
+No warranties are given. NVIDIA does not endorse Harakat or its use of the model.
+Harakat downloads this model on first use; it is not part of the app binary.
